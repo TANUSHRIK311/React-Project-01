@@ -1,7 +1,11 @@
 const App = () => {
   return (
     <div>
-      <h1>My First Component</h1>
+      <nav>
+        <div className="logo">
+
+        </div>
+      </nav>
     </div>
   );
 }
