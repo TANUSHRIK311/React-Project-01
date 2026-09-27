@@ -5,18 +5,8 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-:root{
-    font : arial;
-    background : white;
-}
-button{
-     all: unset;
-     padding: 6px 16px;
-     background-color: #da0f0f;
-     height: 32px;
-     color: #fff;
-     font-weight: 500;
-}
+
+
 
 nav{
     display: flex;
