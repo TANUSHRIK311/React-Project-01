@@ -12,6 +12,12 @@ const App = () => {
           <li href = "#">About</li> 
           <li href = "#">Contact</li>
         </ul>
+           <ul>
+          <li href = "#">Home</li>
+          <li href = "#">Location</li>
+          <li href = "#">About</li> 
+          <li href = "#">Contact</li>
+        </ul>
         <button> Log In  </button>
       </nav>
 
