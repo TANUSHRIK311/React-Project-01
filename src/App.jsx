@@ -7,37 +7,12 @@ const App = () => {
           <img src="/images/brand_logo.png" alt="logo" />
         </div>
           <ul>
-          <li href = "#">Home</li>
-          <li href = "#">Location</li>
-          <li href = "#">About</li> 
-          <li href = "#">Contact</li>
-        </ul>
+        
+        <button> Log In  </button>
+   
         <button> Log In  </button>
       </nav>   <ul>
-          <li href = "#">Home</li>
-          <li href = "#">Location</li>
-          <li href = "#">About</li> 
-          <li href = "#">Contact</li>
-        </ul>
-        <button> Log In  </button>
-      </nav>   <ul>
-          <li href = "#">Home</li>
-          <li href = "#">Location</li>
-          <li href = "#">About</li> 
-          <li href = "#">Contact</li>
-        </ul>
-        <button> Log In  </button>
-      </nav> 
-       
-           <ul>
-          <li href = "#">Home</li>
-          <li href = "#">Location</li>
-          <li href = "#">About</li> 
-          <li href = "#">Contact</li>
-        </ul>
-        <button> Log In  </button>
-      </nav>
-
+    
     </div>
   );
 }
